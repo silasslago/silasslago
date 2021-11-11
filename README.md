@@ -13,6 +13,7 @@
 #### - Frameworks:
   ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png)
   ![React](https://img.icons8.com/office/48/000000/react.png)
+  ![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png)
 
 ## 🔭 I’m currently working on ...
 
