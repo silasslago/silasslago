@@ -2,8 +2,8 @@
 Sou Silas, sinta-se livre para explorar meu perfil 🤓
 <div align="center">
   <a href="https://github.com/Dogoso">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dogoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dogoso&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Dogoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dogoso&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Silas-Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png">
