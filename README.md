@@ -8,7 +8,6 @@ Sou Silas, sinta-se livre para explorar meu trabalho 🤓
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png">
   <img align="center" alt="Spring" src="https://img.icons8.com/color/48/000000/spring-logo.png">
-  <img align="center" alt="Hibernate" height="40" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg">
   <img align="center" alt="HTML" src="https://img.icons8.com/color/48/000000/html-5--v1.png">
   <img align="center" alt="CSS" src="https://img.icons8.com/color/48/000000/css3.png">
   <img align="center" alt="Js" src="https://img.icons8.com/color/48/000000/javascript--v1.png">
@@ -20,7 +19,5 @@ Sou Silas, sinta-se livre para explorar meu trabalho 🤓
 <div> 
   <a href="https://www.linkedin.com/in/silas-juan-0a0494222/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://cursos.alura.com.br/user/juanfsa" target="_blank"><img src="https://svgshare.com/i/cN4.svg" target="_blank"></a>
-  <a href="https://twitter.com/SilasDogoso" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/silasdogoso/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.codewars.com/users/silassslago" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
 </div>
