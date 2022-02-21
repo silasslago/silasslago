@@ -12,6 +12,7 @@ Sou Silas, sinta-se livre para explorar meu trabalho 🤓
   <img align="center" alt="CSS" src="https://img.icons8.com/color/48/000000/css3.png">
   <img align="center" alt="Js" src="https://img.icons8.com/color/48/000000/javascript--v1.png">
   <img align="right" alt="Silas-Pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/601118494527848498/913992807662911508/unknown.png?width=468&height=468">
+  e mais...
 </div>
 
 <br>
