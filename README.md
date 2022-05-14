@@ -8,6 +8,7 @@ Sou Silas, sinta-se livre para explorar meu trabalho 🤓
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png">
   <img align="center" alt="Spring" src="https://img.icons8.com/color/48/000000/spring-logo.png">
+  <img align="center" style="width: 48px" alt="React" src="https://img.icons8.com/office/344/react.png">
   <img align="center" alt="HTML" src="https://img.icons8.com/color/48/000000/html-5--v1.png">
   <img align="center" alt="CSS" src="https://img.icons8.com/color/48/000000/css3.png">
   <img align="center" alt="Js" src="https://img.icons8.com/color/48/000000/javascript--v1.png">
