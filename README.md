@@ -11,6 +11,7 @@ Sou Silas, sinta-se livre para explorar meu trabalho 🤓
   <img align="center" style="width: 48px" alt="React" src="https://img.icons8.com/office/344/react.png">
   <img align="center" alt="HTML" src="https://img.icons8.com/color/48/000000/html-5--v1.png">
   <img align="center" alt="CSS" src="https://img.icons8.com/color/48/000000/css3.png">
+  <img align="center" alt="Python" style="width: 48px" src="https://img.icons8.com/color/344/python--v1.png">
   <img align="center" alt="Js" src="https://img.icons8.com/color/48/000000/javascript--v1.png">
   <img align="right" alt="Silas-Pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/601118494527848498/913992807662911508/unknown.png?width=468&height=468">
   e mais...
