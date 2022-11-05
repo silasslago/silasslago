@@ -22,5 +22,4 @@ Sou Silas, sinta-se livre para explorar meu trabalho 🤓
 <div> 
   <a href="https://www.linkedin.com/in/silas-juan-0a0494222/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://cursos.alura.com.br/user/juanfsa" target="_blank"><img src="https://svgshare.com/i/cN4.svg" target="_blank"></a>
-  <a href="https://www.instagram.com/silasdogoso/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
