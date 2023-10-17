@@ -2,9 +2,9 @@
 Sou Silas, sinta-se livre para explorar meu trabalho 🤓
 
 <div align="center">
-  <a href="https://github.com/Dogoso">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Dogoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dogoso&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/silasslago">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=silasslago&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silasslago&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
